@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   id="telegram"
+   version="1.1"
+   sodipodi:docname="telegram.svg"
+   width="32"
+   height="32"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="16"
+     inkscape:cx="-4.71875"
+     inkscape:cy="13.15625"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="telegram" />
+  <path
+     fill="#21a7db"
+     fill-rule="evenodd"
+     d="M 30,6 C 30,3.79 28.21,2 26,2 H 6 C 3.79,2 2,3.79 2,6 v 20 c 0,2.21 1.79,4 4,4 h 20 c 2.21,0 4,-1.79 4,-4 z"
+     id="path1"
+     style="stroke-width:0.5" />
+  <path
+     fill="#ffffff"
+     fill-rule="evenodd"
+     d="m 22.575,11.55 c 0.065,-0.385 -0.085,-0.775 -0.39,-1.02 -0.305,-0.24 -0.72,-0.295 -1.08,-0.145 -3.305,1.41 -10.29,4.385 -13.4199999,5.72 -0.2400002,0.1 -0.3899997,0.345 -0.3750005,0.605 0.014997,0.26 0.1900001,0.48 0.4400008,0.555 0.8549992,0.255 1.8699992,0.56 2.5849996,0.77 0.575,0.175 1.2,0.08 1.7,-0.25 1.69,-1.11 5.555,-3.645 6.365,-4.175 0.09,-0.06 0.205,-0.055 0.29,0.015 0,0 0,0 0,0 0.055,0.045 0.085,0.110001 0.09,0.180001 0,0.07 -0.025,0.14 -0.075,0.184999 -0.740001,0.710001 -3.34,3.195001 -4.595,4.400001 -0.170001,0.16 -0.255001,0.389999 -0.235,0.624999 0.02,0.235001 0.14,0.445001 0.335,0.58 1.155,0.795 3.33,2.285 4.789999,3.285 0.320001,0.220001 0.735,0.26 1.095001,0.11 0.36,-0.15 0.615,-0.475 0.685,-0.865 0.46,-2.69 1.325,-7.795 1.8,-10.585 v 0 z"
+     id="path2"
+     style="stroke-width:0.5" />
+</svg>
