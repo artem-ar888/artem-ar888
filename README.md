@@ -1,8 +1,8 @@
 <h2>
     <div align="right">
-        <a href="https://career.habr.com/ar888"><img src="./icons/habr.svg" alt="Habr Icon" width="auto" height="32"></a>
+        <a href="mailto:artem.ar888@gmail.com"><img src="./icons/gmail.svg" alt="Gmail Icon" width="auto" height="32"></a>
         <a href="https://t.me/ar888_ru"><img src="./icons/telegram.svg" alt="Telegram Icon" width="auto" height="32"></a>
-        <a href="mailto:artem.ar888@gmail.com"><img src="./icons/gmail.svg" alt="Gmail Icon" width="auto" height="32"></a>     
+        <a href="https://career.habr.com/ar888"><img src="./icons/habr.svg" alt="Habr Icon" width="auto" height="32"></a>
     </div>
     Привет!
 </h2>
